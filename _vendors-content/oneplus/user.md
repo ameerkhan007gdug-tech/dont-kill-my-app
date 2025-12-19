@@ -1,5 +1,5 @@
----
-manufacturer: 
+--
+manufacturermanufacturer: 
     - oneplus
 
 ---
